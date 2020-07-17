@@ -1,4 +1,6 @@
 # impAct  - clients
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimpactify%2Fbackend-clients.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimpactify%2Fbackend-clients?ref=badge_shield)
+
 This microservice handles registration and management of clients (users and institutions) of the impAct platform and uses the NestJS Framework.
 
 ## Setup & Usage
@@ -10,3 +12,7 @@ Under config/environments, you have to rename *local.template.env* to *local.env
 
 ## OpenAPI / Swagger
 Swagger UI automatically runs under /api.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimpactify%2Fbackend-clients.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimpactify%2Fbackend-clients?ref=badge_large)
